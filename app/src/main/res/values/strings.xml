@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TRAZA Admin</string>
+    <string name="brand_name">TRAZA</string>
+    <string name="destination_home">Inicio</string>
+    <string name="destination_onboarding">Onboarding</string>
+    <string name="destination_operations">Operaciones</string>
+    <string name="destination_data_ops">DataOps</string>
+    <string name="destination_copilot">Copilot</string>
+    <string name="empty_destination_message">Destino preparado. Sin funcionalidad en esta iteración.</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_subtitle">Acceso exclusivo para administradores.</string>
+    <string name="login_email">Correo</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_show_password">Mostrar</string>
+    <string name="login_hide_password">Ocultar</string>
+    <string name="login_action">Ingresar</string>
+    <string name="login_loading">Ingresando…</string>
+    <string name="session_validating">Validando sesión…</string>
+    <string name="logout_action">Cerrar sesión</string>
+    <string name="login_error_credentials">Correo o contraseña incorrectos.</string>
+    <string name="login_error_network">No se pudo conectar. Revisa tu conexión e inténtalo nuevamente.</string>
+    <string name="login_error_server">El servicio no está disponible en este momento.</string>
+    <string name="login_error_expired">Tu sesión venció. Inicia sesión nuevamente.</string>
+    <string name="login_error_access_denied">No tienes permiso para realizar esta acción.</string>
+    <string name="login_error_admin_only">Esta aplicación está disponible únicamente para administradores.</string>
+    <string name="login_error_unexpected">Ocurrió un error inesperado. Inténtalo nuevamente.</string>
+</resources>

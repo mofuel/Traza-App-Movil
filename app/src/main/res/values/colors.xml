@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="traza_app_background">#FFF5F5F5</color>
+    <color name="traza_surface">#FFFFFFFF</color>
+    <color name="traza_text_primary">#FF1A1A1A</color>
+</resources>
